@@ -1,0 +1,8 @@
+{
+  "python.linting.pycodestyleEnabled": true,
+  "python.linting.mypyEnabled": true,
+  "autoDocstring.docstringFormat": "google",
+  "python.linting.pydocstyleEnabled": true,
+  "python.languageServer": "Pylance",
+  "python.analysis.typeCheckingMode": "basic"
+}
